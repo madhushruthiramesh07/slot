@@ -121,7 +121,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![alt text](<Screenshot 2025-11-28 195356.png>)
+<img width="1897" height="1010" alt="image" src="https://github.com/user-attachments/assets/0dc32e72-916c-4642-9e78-06e809c5bb06" />
+
 
 
 
